@@ -1,0 +1,10 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+body {
+  text-align: center;
+  width: 100vw;
+  height: 100vh;
+  background-image: linear-gradient(to bottom,rgb(116, 237, 233,.8),rgb(204, 115, 169,.8),rgb(104, 196, 210));
+}

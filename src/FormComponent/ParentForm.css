@@ -1,0 +1,39 @@
+label{
+    font-size: 25px;
+    font-weight: bold;
+    margin: 10px;
+}
+input{
+    width: 200px;
+    height: 30px;
+    border-radius: 15px;
+    margin: 10px;
+}
+button{
+    width: 150px;
+    height: 40px;
+    border-radius:20px ;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.displaycon{
+    display: flex;
+    width: 80%;
+    height: 100%;
+    background-color: darkslategray;
+    margin-left: 10%;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+
+}
+.displayData{
+
+color: yellow;
+margin: 10px;
+width: 40%;
+height: 15%;
+background-color:coral;
+border-radius: 50px;
+padding: 20px;
+font-size: 25px;
+}
